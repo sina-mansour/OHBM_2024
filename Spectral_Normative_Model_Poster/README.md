@@ -1,4 +1,4 @@
-# Connectomes for 40,000 UK Biobank participants:
+# Human Brain Normative Modeling Using Eigenmodes
 
 ## Sina Mansour L., B.T. Thomas Yeo, Andrew Zalesky, Maria A. Di Biase
 
